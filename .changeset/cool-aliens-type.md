@@ -1,5 +1,0 @@
----
-'timerify': minor
----
-
-Initial release
