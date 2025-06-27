@@ -1,5 +1,5 @@
 import { describe, it, expect, vi } from 'vitest';
-import { timerify } from '../src';
+import { timerify } from '../src/index.js';
 
 describe('timerify', () => {
   it('returns wrapped function result (sync)', () => {
