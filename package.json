@@ -52,6 +52,7 @@
     "size": "pkg-size",
     "test": "vitest run"
   },
+  "sideEffects": false,
   "type": "module",
   "types": "dist/index.d.ts"
 }
