@@ -1,7 +1,7 @@
 {
   "name": "timerify",
   "description": "Zero-config function timing utility (sync & async).",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Lodewijk Wensveen",
   "bin": {
     "timerify": "dist/cli.js"
