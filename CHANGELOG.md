@@ -1,5 +1,11 @@
 # timerify
 
+## 0.1.1
+
+### Patch Changes
+
+- [`1529132`](https://github.com/lwensveen/timerify/commit/152913204164b2e67908bbe206f1b7bb07db9b32) Thanks [@lwensveen](https://github.com/lwensveen)! - Bring version to 0.1.1
+
 ## 0.2.0
 
 ### Minor Changes
